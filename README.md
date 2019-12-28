@@ -4,6 +4,10 @@ The efficient processing of large graphs is challenging. Given the current data 
 
 |**Platform Reference**                                                                                                         |**Year**|
 |-----------------------------------------------------------------------------------------------------------------------------------|----|
+|[Gpop: a cache and memory-efficient framework for graph processing over partitions](https://dl.acm.org/citation.cfm?id=3299108)  |2019|  
+|[NeuGraph: Parallel Deep Neural Network Computation on Large Graphs](https://www.usenix.org/system/files/atc19-ma_0.pdf)  |2019|   
+|                                                                                                                           |    |
+|[Accelerating PageRank using Partition-Centric Processing](https://www.usenix.org/system/files/conference/atc18/atc18-lakhotia.pdf) |2018|
 |[Fbsgraph: Accelerating Asynchronous Graph Processing Via Forward And Backward Sweeping](https://ieeexplore.ieee.org/document/8170287/) |2018|
 |[GrapH: Traffic-Aware Graph Processing](https://ieeexplore.ieee.org/document/8263157) |2018|
 |[GraphD: Distributed Vertex-Centric Graph Processing Beyond The Memory Limit](https://ieeexplore.ieee.org/document/8016377) |2018|

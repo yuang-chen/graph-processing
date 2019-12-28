@@ -5,23 +5,23 @@ The efficient processing of large graphs is challenging. Given the current data 
 |**Platform Reference**                                                                                                         |**Year**|
 |-----------------------------------------------------------------------------------------------------------------------------------|----|
 |[Fbsgraph: Accelerating Asynchronous Graph Processing Via Forward And Backward Sweeping](https://ieeexplore.ieee.org/document/8170287/) |2018|
-|[GrapH: Traffic-Aware Graph Processing](https://ieeexplore.ieee.org/document/8263157)                                              |2018|
-|[GraphD: Distributed Vertex-Centric Graph Processing Beyond The Memory Limit](https://ieeexplore.ieee.org/document/8016377)                                                        |2018|
-|[HyVE: Hybrid Vertex-Edge Memory Hierarchy For Energy-Efficient Graph Processing](https://ieeexplore.ieee.org/document/8342150)                                                    |2018|
-|[L-Powergraph: A Lightweight Distributed Graph-Parallel Communication Mechanism](https://link.springer.com/article/10.1007/s11227-018-2359-9)                                                     |2018|
-|[La3: A Scalable Link- And Locality-Aware Linear Algebra-Based Graph Analytics System](https://dl.acm.org/citation.cfm?id=3228395)                                               |2018|
-|[Lazygraph: Lazy Data Coherency For Replicas In Distributed Graph-Parallel Computation](https://dl.acm.org/citation.cfm?id=3178508)                                              |2018|
-|[SHMEMGraph: Efficient And Balanced Graph Processing Using One-Sided Communication](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8411067)                                                  |2018|
-|[Turbograph++: A Scalable And Fast Graph Analytics System](https://dl.acm.org/citation.cfm?id=3183713.3196915)                                                                           |2018|
-|[Wonderland: A Novel Abstraction-Based Out-Of-Core Graph Processing System](https://dl.acm.org/citation.cfm?id=3173208)                                                          |2018|
+|[GrapH: Traffic-Aware Graph Processing](https://ieeexplore.ieee.org/document/8263157) |2018|
+|[GraphD: Distributed Vertex-Centric Graph Processing Beyond The Memory Limit](https://ieeexplore.ieee.org/document/8016377) |2018|
+|[HyVE: Hybrid Vertex-Edge Memory Hierarchy For Energy-Efficient Graph Processing](https://ieeexplore.ieee.org/document/8342150) |2018|
+|[L-Powergraph: A Lightweight Distributed Graph-Parallel Communication Mechanism](https://link.springer.com/article/10.1007/s11227-018-2359-9) |2018|
+|[La3: A Scalable Link- And Locality-Aware Linear Algebra-Based Graph Analytics System](https://dl.acm.org/citation.cfm?id=3228395) |2018|
+|[Lazygraph: Lazy Data Coherency For Replicas In Distributed Graph-Parallel Computation](https://dl.acm.org/citation.cfm?id=3178508) |2018|
+|[SHMEMGraph: Efficient And Balanced Graph Processing Using One-Sided Communication](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8411067) |2018|
+|[Turbograph++: A Scalable And Fast Graph Analytics System](https://dl.acm.org/citation.cfm?id=3183713.3196915) |2018|
+|[Wonderland: A Novel Abstraction-Based Out-Of-Core Graph Processing System](https://dl.acm.org/citation.cfm?id=3173208) |2018|
 |                                                                                                                                   |    |
-|[A Distributed Multi-GPU System For Fast Graph Processing](https://dl.acm.org/citation.cfm?id=3173079)                                                                           |2017|
-|[BlockGraphChi: Enabling Block Update In Out-Of-Core Graph Processing](https://link.springer.com/article/10.1007/s10766-017-0532-z)                                                               |2017|
-|[Cypher-Based Graph Pattern Matching In Gradoop](https://dl.acm.org/citation.cfm?id=3078450)                                                                                    |2017|
-|[Foregraph Exploring Large Scale Graph Processing On Multi FPGA Architecture](https://dl.acm.org/citation.cfm?id=3021739)                                                        |2017|
-|[Frog: Asynchronous Graph Processing On Gpu With Hybrid Coloring Model](https://ieeexplore.ieee.org/document/8017445)                                                              |2017|
-|[G-Thinker: Big Graph Mining Made Easier And Faster](https://dl.acm.org/citation.cfm?id=3190545&dl=ACM&coll=DL)                                                                                 |2017|
-|[Graphene: Fine-Grained Io Management For Graph Computing](https://www.usenix.org/conference/fast17/technical-sessions/presentation/liu)                                                                           |2017|
+|[A Distributed Multi-GPU System For Fast Graph Processing](https://dl.acm.org/citation.cfm?id=3173079) |2017|
+|[BlockGraphChi: Enabling Block Update In Out-Of-Core Graph Processing](https://link.springer.com/article/10.1007/s10766-017-0532-z) |2017|
+|[Cypher-Based Graph Pattern Matching In Gradoop](https://dl.acm.org/citation.cfm?id=3078450) |2017|
+|[Foregraph Exploring Large Scale Graph Processing On Multi FPGA Architecture](https://dl.acm.org/citation.cfm?id=3021739) |2017|
+|[Frog: Asynchronous Graph Processing On Gpu With Hybrid Coloring Model](https://ieeexplore.ieee.org/document/8017445) |2017|
+|[G-Thinker: Big Graph Mining Made Easier And Faster](https://dl.acm.org/citation.cfm?id=3190545&dl=ACM&coll=DL) |2017|
+|[Graphene: Fine-Grained Io Management For Graph Computing](https://www.usenix.org/conference/fast17/technical-sessions/presentation/liu) |2017|
 |[Graphflow: An Active Graph Database](https://dl.acm.org/citation.cfm?id=3056445)                                                                                                |2017|
 |[GraphH High Performance Big Graph Analytics In Small Clusters](https://arxiv.org/abs/1705.05595)                                                                      |2017|
 |[Graphmp An Efficient Semi External Memory Big Graph Processing System On A Single Machine](https://ieeexplore.ieee.org/document/8368374)                                          |2017|
